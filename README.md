@@ -16,4 +16,12 @@ O jogo permite opções de jogo contra a máquina e contra outro jogador (player
 
 <img src="https://github.com/fpreviatti/Jogo-da-Velha/blob/main/vsp2.png" width="400px" height="auto">
 
+# Tela vitória jogador 1:
+
+<img src="https://github.com/fpreviatti/Jogo-da-Velha/blob/main/vitoriaplayer1.png" width="400px" height="auto">
+
+# Tela vitória jogador 2:
+
+<img src="https://github.com/fpreviatti/Jogo-da-Velha/blob/main/vitoriaplayer2.png" width="400px" height="auto">
+
 
